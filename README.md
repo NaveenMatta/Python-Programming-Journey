@@ -1,2 +1,2 @@
 # Python-Programming-Journey
-Python Mini Projects of Every Individual Topic
+A menu-driven Python project for analyzing and manipulating strings.
